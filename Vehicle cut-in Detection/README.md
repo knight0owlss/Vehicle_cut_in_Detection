@@ -1,5 +1,13 @@
 # Vehicle cut-in Detection
 
+## TEAM KnightOwls
+#### Members:
+- Vinayak Puranik(Leader)
+- Suvansh Choudhary
+- Vidushee Singh
+- Swastik Swaroop Dash 
+
+
 This project uses YOLOv3 for Vehicle detection and SORT(Simple Online and Realtime Tracker) for vehicle tracking
 
 This project imlements the following tasks in the project: 
