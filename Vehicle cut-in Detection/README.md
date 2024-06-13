@@ -7,7 +7,7 @@
 - Vidushee Singh
 - Swastik Swaroop Dash 
 
-
+#### About Project
 This project uses YOLOv3 for Vehicle detection and SORT(Simple Online and Realtime Tracker) for vehicle tracking
 
 This project imlements the following tasks in the project: 
@@ -17,7 +17,7 @@ This project imlements the following tasks in the project:
 3. Cut-in detection
 4. Speed estimation
 
-### Speed Detection:
+#### Speed Detection:
 This is an interesting project, mainly due to camera shaking(maybe due to wind or whaterver the reason may be!). This camera shake results into frame flickering. Which means we can not use traditional pixel distance travelled to Km/h mapping because as each frame flickers, the centroid of the bounding box also flickers arbitrarily. Hence I tried this new method: <b> SPEED BETWEEN TWO LINES</b>
 
 #### Speed Between Two Lines (SBTL)
